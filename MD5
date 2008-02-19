@@ -1,6 +1,6 @@
-65d2000dc72ebe973ae32bf3528e9b0b *DESCRIPTION
-9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
-640250f7f572ae77853948a3f6488bca *R/chebR.R
-c3a32ae6503de277b252fac7a1647ebf *man/cheb-package.Rd
+c6314a2c387c6f66c6b405f0c0b7e9f7 *DESCRIPTION
+e024d1baa512c5c3a76ab23ff62a1e87 *NAMESPACE
+676630aed06bcf812caeb152ccd2b90a *R/chebR.R
+a5d3e4f9a10e93fac4aa20db2971b56f *man/cheb-package.Rd
 e7e6fb800d9e43a0db202ced0554838c *man/chebR.Rd
 416603f34b83e4d07b96aeac9080e6cf *src/cheb.f

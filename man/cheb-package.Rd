@@ -30,8 +30,6 @@ I. Barrodale and C. Philips. Algorithm 495 – Solutions of an Overdetermined Sy
 in the Chebyshev Norm. ACM Transactions on Mathematical Software, 1:264–270, 1975.
 }
 \keyword{ package }
-\seealso{
-}
 \examples{
 a<-matrix(rnorm(20),10,2)
 b<-rnorm(10)

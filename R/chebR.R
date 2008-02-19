@@ -10,8 +10,5 @@ rlist<-.Fortran("cheb",as.integer(m),as.integer(n),as.integer(m+1),as.integer(n+
 	rank=as.integer(0),resmax=as.single(0.0),iter=as.integer(0),ocode=as.integer(0),PACKAGE="cheb")
 return(list(coefs=rlist$xx[1:n],resids=rlist$bb[1:m],rank=rlist$rank,iter=rlist$iter,ocode=rlist$ocode))
 }
-.First.lib <- function(lib, pkg) {
-  library.dynam("cheb", pkg, lib)
-}
 
 
